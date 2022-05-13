@@ -9,7 +9,7 @@
 
 <div class="my-5">
     <div class="container">
-        <h1 class="text-center">Layanan mitra kami</h1>
+        <h1 class="text-center">Layanan Mitra kami</h1>
         <div class="row mt-5">
             <?php foreach ( $datas as $data) : ?>
                 <div class="col-4">
