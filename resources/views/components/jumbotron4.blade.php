@@ -8,7 +8,7 @@
                 </div>
             </div>
             <div class="col p-0">
-                <img src="{{ URL('images/image(21).png ') }}" alt="Card image cap" style=" width:747px; height:747px;" class="img-fluid">
+                <img src="{{ URL('images/image(20).png ') }}" alt="Card image cap" style=" width:747px; height:747px;" class="img-fluid">
             </div>
         </div>
     </div>
