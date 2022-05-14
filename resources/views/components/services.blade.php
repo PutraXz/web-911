@@ -14,7 +14,7 @@
             <?php foreach ( $datas as $data) : ?>
                 <div class="col-4">
                     <div class="card" style="border-radius: 54px; background:{{$data['color']}};">
-                        <img class="card-img-top" src="{{$data['img']}}" alt="Card image cap" style=" width:240px; height:238px; ">
+                        <img class="card-img-top" src="{{$data['img']}}" alt="Card image cap" style=" width:240px; height:238px;margin-left: 5.3em;margin-top: 0.8em; ">
                         <div class="card-body">
                             <h3 class="card-title" style="margin: 1rem 2rem 24px 2rem"><b>{{$data['title']}}</b></h3>
                             <p class="card-text" style="margin: 0 2rem 47px 2rem">{{$data['text']}}</p>
